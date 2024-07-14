@@ -30,7 +30,3 @@ La aplicación presenta un menú interactivo donde el usuario puede seleccionar 
 - **5 - Listar libros por idioma**
 - **0 - Salir**
 
-## Agradecimientos
-
-Estoy agradecido a Alura Latam por sus enseñanzas a este proyecto.
-
